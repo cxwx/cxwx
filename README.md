@@ -2,7 +2,7 @@
 - 👀 I’m interested in Math 
 - 🌱 I’m currently learning astro.HE
 - 💞️ I’m looking to collaborate on CPP python
-- 📫 How to reach me chenxu@mail.ustc.edu.cn
+- 📫 How to reach me cxwx3@qq.com
 
 <!---
 cxwx/cxwx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

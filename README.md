@@ -11,6 +11,8 @@
 <!-- *********************************************************************** -->
 <!-- cspell:disable -->
 
+<img align="center" src="https://raw.githubusercontent.com/plexpt/plexpt/snake/github-snake.svg">
+
 [![Head](https://readme-typing-svg.demolab.com?font=&weight=600&size=40&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=435&height=60&lines=OPEN+SOURCE)](https://github.com/cxwx/cxwx)
 
 - 👋 Hi, I’m @cxwx

@@ -1,16 +1,3 @@
-<!-- *********************************************************************** -->
-<!--                                                                         -->
-<!--                                                      :::      ::::::::  -->
-<!-- README.md                                          :+:      :+:    :+:  -->
-<!--                                                  +:+ +:+         +:+    -->
-<!-- By: chenxu <chenxu@mail.ustc.edu.cn>           +#+  +:+       +#+       -->
-<!--                                              +#+#+#+#+#+   +#+          -->
-<!-- Created: 2024/12/09 11:23:23 by chenxu            #+#    #+#            -->
-<!-- Updated: 2024/12/09 11:33:36 by chenxu           ###   ########.fr      -->
-<!--                                                                         -->
-<!-- *********************************************************************** -->
-<!-- cspell:disable -->
-
 <img align="center" src="https://raw.githubusercontent.com/plexpt/plexpt/snake/github-snake.svg">
 
 [![Head](https://readme-typing-svg.demolab.com?font=&weight=600&size=40&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=435&height=60&lines=OPEN+SOURCE)](https://github.com/cxwx/cxwx)

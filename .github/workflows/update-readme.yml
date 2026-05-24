@@ -14,21 +14,80 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Update Weather Section
+      - name: Update Weather
+        id: weather
         run: |
-          # Get weather for Beijing, China
-          WEATHER=$(curl -s "https://wttr.in/Beijing?format=%C+%t" | sed 's/+/ /g')
-          sed -i "/<!--START_SECTION:weather-->/,/<!--END_SECTION:weather-->/s|.*|<!--START_SECTION:weather-->\\n**Beijing, China** 🌤️ **$WEATHER**\\n<!--END_SECTION:weather-->|/" README.md
+          # Get weather for Beijing using wttr.in
+          WEATHER=$(curl -s "https://wttr.in/Beijing?format=%C+%t" || echo "Unknown")
+          echo "weather_info=$WEATHER" >> $GITHUB_OUTPUT
+          echo "Weather data: $WEATHER"
 
-      - name: Update Activity Section
+      - name: Update README with Weather
         run: |
-          # Get recent GitHub activity
-          ACTIVITY=$(gh api /users/cxwx/events --jq '.[:5] | .[] | "* [" + .repo.name + "](" + .repo.html_url + ") - " + (.type | split("Event") | .[0] + "ed")' 2>/dev/null || echo "* Activity loading...")
-          sed -i "/<!--START_SECTION:activity-->/,/<!--END_SECTION:activity-->/c\<!--START_SECTION:activity-->\\n$ACTIVITY\\n<!--END_SECTION:activity-->" README.md
+          # Create Python script to update README
+          cat > update_readme.py << 'PYTHON_EOF'
+          import re
+          import os
+
+          weather_info = os.environ['WEATHER_INFO']
+
+          with open('README.md', 'r') as f:
+              content = f.read()
+
+          # Update weather section
+          weather_pattern = r'<!--START_SECTION:weather-->.*?<!--END_SECTION:weather-->'
+          weather_replacement = f'<!--START_SECTION:weather-->\n**Beijing, China** 🌤️ **{weather_info}**\n<!--END_SECTION:weather-->'
+          content = re.sub(weather_pattern, weather_replacement, content, flags=re.DOTALL)
+
+          with open('README.md', 'w') as f:
+              f.write(content)
+
+          print("README updated successfully!")
+          PYTHON_EOF
+
+          python3 update_readme.py
+        env:
+          WEATHER_INFO: ${{ steps.weather.outputs.weather_info }}
+
+      - name: Update Activity
+        id: activity
+        run: |
+          # Get recent GitHub events using GitHub API
+          EVENTS=$(gh api /users/cxwx/events --jq '.[:3] | .[] | "* [" + .repo.name + "](" + .repo.html_url + ") - " + (.type | split("Event") | .[0] + "ed")' 2>/dev/null || echo "* No recent activity")
+          echo "activity_data<<EOF" >> $GITHUB_OUTPUT
+          echo "$EVENTS" >> $GITHUB_OUTPUT
+          echo "EOF" >> $GITHUB_OUTPUT
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Commit changes
+      - name: Update README with Activity
+        run: |
+          # Create Python script to update activity section
+          cat > update_activity.py << 'PYTHON_EOF'
+          import re
+          import os
+
+          activity_data = os.environ['ACTIVITY_DATA']
+
+          with open('README.md', 'r') as f:
+              content = f.read()
+
+          # Update activity section
+          activity_pattern = r'<!--START_SECTION:activity-->.*?<!--END_SECTION:activity-->'
+          activity_replacement = f'<!--START_SECTION:activity-->\n{activity_data}\n<!--END_SECTION:activity-->'
+          content = re.sub(activity_pattern, activity_replacement, content, flags=re.DOTALL)
+
+          with open('README.md', 'w') as f:
+              f.write(content)
+
+          print("Activity updated successfully!")
+          PYTHON_EOF
+
+          python3 update_activity.py
+        env:
+          ACTIVITY_DATA: ${{ steps.activity.outputs.activity_data }}
+
+      - name: Commit and push changes
         run: |
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions"

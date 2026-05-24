@@ -31,6 +31,27 @@
 
 ---
 
+## 📈 Recent Activity
+
+<!--START_SECTION:activity-->
+* [cxwx](https://github.com/cxwx) created 3 commits in [cxwx/cxwx](https://github.com/cxwx/cxwx)
+* [cxwx](https://github.com/cxwx) made 2 contributions in public repositories
+<!--END_SECTION:activity-->
+
+---
+
+## 🌤️ Weather
+
+<div align="center">
+
+<!--START_SECTION:weather-->
+**Hefei, China** 🌥️ **Loading...**
+<!--END_SECTION:weather-->
+
+</div>
+
+---
+
 ## 🔗 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cxwx)

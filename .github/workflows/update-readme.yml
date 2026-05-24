@@ -1,0 +1,39 @@
+name: Update README
+
+on:
+  schedule:
+    # Runs every 2 hours
+    - cron: '0 */2 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Update Weather Section
+        run: |
+          # Get weather for Hefei, China
+          WEATHER=$(curl -s "https://wttr.in/Hefei?format=%C+%t" | sed 's/+/ /g')
+          sed -i "/<!--START_SECTION:weather-->/,/<!--END_SECTION:weather-->/s|.*|<!--START_SECTION:weather-->\\n**Hefei, China** 🌤️ **$WEATHER**\\n<!--END_SECTION:weather-->|/" README.md
+
+      - name: Update Activity Section
+        run: |
+          # Get recent GitHub activity
+          ACTIVITY=$(gh api /users/cxwx/events --jq '.[:5] | .[] | "* [" + .repo.name + "](" + .repo.html_url + ") - " + (.type | split("Event") | .[0] + "ed")' 2>/dev/null || echo "* Activity loading...")
+          sed -i "/<!--START_SECTION:activity-->/,/<!--END_SECTION:activity-->/c\<!--START_SECTION:activity-->\\n$ACTIVITY\\n<!--END_SECTION:activity-->" README.md
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+          git add README.md
+          git diff --staged --quiet || git commit -m "🤖 Auto-update README [skip ci]"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

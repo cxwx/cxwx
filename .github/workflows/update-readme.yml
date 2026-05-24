@@ -16,9 +16,9 @@ jobs:
 
       - name: Update Weather Section
         run: |
-          # Get weather for Hefei, China
-          WEATHER=$(curl -s "https://wttr.in/Hefei?format=%C+%t" | sed 's/+/ /g')
-          sed -i "/<!--START_SECTION:weather-->/,/<!--END_SECTION:weather-->/s|.*|<!--START_SECTION:weather-->\\n**Hefei, China** 🌤️ **$WEATHER**\\n<!--END_SECTION:weather-->|/" README.md
+          # Get weather for Beijing, China
+          WEATHER=$(curl -s "https://wttr.in/Beijing?format=%C+%t" | sed 's/+/ /g')
+          sed -i "/<!--START_SECTION:weather-->/,/<!--END_SECTION:weather-->/s|.*|<!--START_SECTION:weather-->\\n**Beijing, China** 🌤️ **$WEATHER**\\n<!--END_SECTION:weather-->|/" README.md
 
       - name: Update Activity Section
         run: |

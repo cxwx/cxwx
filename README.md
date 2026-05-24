@@ -45,7 +45,7 @@
 <div align="center">
 
 <!--START_SECTION:weather-->
-**Hefei, China** 🌥️ **Loading...**
+**Beijing, China** 🌤️ **Loading...**
 <!--END_SECTION:weather-->
 
 </div>

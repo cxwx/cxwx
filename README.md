@@ -2,15 +2,13 @@
 
 # cxwx
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Monospace&weight=600&size=28&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Hello+World!+%F0%9F%91%8B;I'm+cxwx+%F0%9F%9A%80;Math+%26+Code+%F0%9F%92%BB" alt="Typing SVG">
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=2000&color=000000&center=true&vCenter=true&width=600&lines=Hello+World!+%F0%9F%91%8B;I'm+cxwx+%F0%9F%9A%80;Math+%26+Code+%F0%9F%92%BB" alt="Typing SVG">
 
 </div>
 
 ---
 
-### 👨‍💻 &nbsp; About Me
+## 👨‍💻 About Me
 
 | Element | Detail |
 |---------|--------|
@@ -22,61 +20,39 @@
 
 ---
 
-### 🛠️ &nbsp; Tech Stack
+## 🛠️ Tech Stack
 
-<div align="center">
+**Languages**
+- ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Astro-000000?style=for-the-badge&logo=astro&logoColor=white">
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/Linux-FF6600?style=for-the-badge&logo=linux&logoColor=white">
-
-</div>
+**Tools & Platforms**
+- ![Astro](https://img.shields.io/badge/Astro-000000?style=flat-square&logo=astro&logoColor=white)
+- ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+- ![Linux](https://img.shields.io/badge/Linux-FF6600?style=flat-square&logo=linux&logoColor=white)
 
 ---
 
-### 📊 &nbsp; GitHub Activity
+## 📊 GitHub Stats
 
-<div align="center">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cxwx&show_icons=true&hide_border=true&title_color=000000&text_color=000000&icon_color=000000&bg_color=ffffff)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cxwx&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=cxwx&layout=compact&theme=default&hide_border=true)
-
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=cxwx&layout=compact&hide_border=true&title_color=000000&text_color=000000&bg_color=ffffff)
 
 ---
 
-### 🔗 &nbsp; Connect With Me
+## 🔗 Connect With Me
 
-<div align="center">
-
-<a href="https://github.com/cxwx" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-
-&nbsp;&nbsp;
-
-<a href="mailto:cxwx3@qq.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
-
-</div>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cxwx)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cxwx3@qq.com)
 
 ---
-
-### 👀 &nbsp; Visitor Count
 
 <div align="center">
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=cxwx&style=flat-square)
 
-<br><br>
-
-<sub><i>Thanks for stopping by! 🙏 &nbsp; Happy Coding!</i></sub>
+*Thanks for stopping by! 🙏 Happy Coding!*
 
 </div>

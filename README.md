@@ -34,8 +34,9 @@
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-* [cxwx](https://github.com/cxwx) created 3 commits in [cxwx/cxwx](https://github.com/cxwx/cxwx)
-* [cxwx](https://github.com/cxwx) made 2 contributions in public repositories
+* [cxwx/cxwx]() - Pushed
+* [cxwx/cxwx]() - Pushed
+* [cxwx/cxwx]() - Pushed
 <!--END_SECTION:activity-->
 
 ---
@@ -45,7 +46,7 @@
 <div align="center">
 
 <!--START_SECTION:weather-->
-**Beijing, China** 🌤️ **Loading...**
+**Beijing, China** 🌤️ **Sunny +85°F**
 <!--END_SECTION:weather-->
 
 </div>

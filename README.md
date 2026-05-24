@@ -3,74 +3,26 @@
 # cxwx
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Monospace&weight=600&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=600&height=50&lines=Hello%2C+World!+%F0%9F%91%8B;I'm+cxwx+%F0%9F%9A%80;Math+%26+Code+%F0%9F%92%BB;Open+Source+Enthusiast+%F0%9F%8C%9F" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Monospace&weight=600&size=28&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Hello+World!+%F0%9F%91%8B;I'm+cxwx+%F0%9F%9A%80;Math+%26+Code+%F0%9F%92%BB" alt="Typing SVG">
 </p>
 
 </div>
 
 ---
 
-### 📟 &nbsp; About Me
+### 👨‍💻 &nbsp; About Me
 
 | Element | Detail |
 |---------|--------|
-| username | [@cxwx](https://github.com/cxwx) |
-| mail | cxwx3@qq.com |
-| interest | Mathematics |
-| stack | `astro.HE` |
-| collab | C++, Python |
+| **username** | [@cxwx](https://github.com/cxwx) |
+| **mail** | cxwx3@qq.com |
+| **interest** | Mathematics |
+| **stack** | `astro.HE` |
+| **collab** | C++, Python |
 
 ---
 
-### GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=cxwx&count_private=true&show_icons=true&theme=default&hide_border=true&cache_seconds=3600" width="500" alt="GitHub Stats">
-
-</div>
-
----
-
-### Top Repositories
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-repos?username=cxwx&limit=8&theme=default&hide_border=true&cache_seconds=3600" width="500" alt="Top Repos">
-
-</div>
-
----
-
-### Language Breakdown
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=cxwx&langs_count=10&layout=compact&theme=default&hide_border=true&size_weight=1.0&count_weight=1.0&cache_seconds=3600" width="450" alt="Top Languages">
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cxwx&langs_count=8&theme=default&hide_border=true&layout=donut-vertical&size_weight=1.0&count_weight=1.0&cache_seconds=3600" width="280" alt="Language Donut">
-
-</div>
-
----
-
-### Activity & Contribution
-
-<div align="center">
-
-<img src="https://grass-graph.appspot.com/images/cxwx.png" width="600" alt="Contributions">
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=cxwx&theme=default&hide_border=true&cache_seconds=3600" width="600" alt="Streak Stats">
-
-</div>
-
----
-
-### Tech Stack
+### 🛠️ &nbsp; Tech Stack
 
 <div align="center">
 
@@ -88,7 +40,18 @@
 
 ---
 
-### Connect With Me
+### 📊 &nbsp; GitHub Activity
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cxwx&show_icons=true&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=cxwx&layout=compact&theme=default&hide_border=true)
+
+</div>
+
+---
+
+### 🔗 &nbsp; Connect With Me
 
 <div align="center">
 
@@ -106,17 +69,14 @@
 
 ---
 
-### Visitor Count
+### 👀 &nbsp; Visitor Count
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=cxwx&style=flat-square" width="200" alt="Visitor Count">
+![Visitor Count](https://komarev.com/ghpvc/?username=cxwx&style=flat-square)
 
 <br><br>
 
 <sub><i>Thanks for stopping by! 🙏 &nbsp; Happy Coding!</i></sub>
 
 </div>
-
----
-

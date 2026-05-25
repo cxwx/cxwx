@@ -34,9 +34,9 @@
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-* [cxwx/sortpic]() - Pushed
-* [cxwx/sortpic]() - Pushed
-* [cxwx/sortpic]() - Pushed
+* [cxwx/homebrew-cxbrew]() - Createed
+* [cxwx/homebrew-cxbrew]() - PullRequested
+* [cxwx/homebrew-cxbrew]() - Issuesed
 <!--END_SECTION:activity-->
 
 ---
@@ -46,7 +46,7 @@
 <div align="center">
 
 <!--START_SECTION:weather-->
-**Beijing, China** 🌤️ **Light Rain +69°F**
+**Beijing, China** 🌤️ **Partly Cloudy  +67°F**
 <!--END_SECTION:weather-->
 
 </div>

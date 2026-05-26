@@ -34,9 +34,9 @@
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
+* [QuantumNous/new-api]() - Issuesed
+* [QuantumNous/new-api]() - Issuesed
 * [cxwx/homebrew-cxbrew]() - Pushed
-* [cxwx/homebrew-cxbrew]() - Pushed
-* [cxwx/block3]() - Pushed
 <!--END_SECTION:activity-->
 
 ---
@@ -46,7 +46,7 @@
 <div align="center">
 
 <!--START_SECTION:weather-->
-**Beijing, China** 🌤️ **Clear  +65°F**
+**Beijing, China** 🌤️ **Clear  +63°F**
 <!--END_SECTION:weather-->
 
 </div>

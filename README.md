@@ -46,7 +46,7 @@
 <div align="center">
 
 <!--START_SECTION:weather-->
-**Beijing, China** 🌤️ **Sunny +97°F**
+**Beijing, China** 🌤️ **render failed: response missing current_condition array [Beijing][39.9059631,116.391248][594][view=line]**
 <!--END_SECTION:weather-->
 
 </div>

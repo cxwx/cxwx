@@ -34,9 +34,9 @@
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
+* [1003761249/CheatEngine-With-kdmapper]() - Forked
+* [1003761249/CheatEngine-With-kdmapper]() - Watched
 * [JStone2934/KAgent]() - Watched
-* [cxwx/homebrew-cxbrew]() - Deleteed
-* [cxwx/homebrew-cxbrew]() - Deleteed
 <!--END_SECTION:activity-->
 
 ---
@@ -46,7 +46,7 @@
 <div align="center">
 
 <!--START_SECTION:weather-->
-**Beijing, China** 🌤️ **Clear  +81°F**
+**Beijing, China** 🌤️ **Clear  +65°F**
 <!--END_SECTION:weather-->
 
 </div>

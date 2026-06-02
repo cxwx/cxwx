@@ -34,9 +34,9 @@
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-* [cxwx/homebrew-cxbrew]() - Createed
-* [cxwx/homebrew-cxbrew]() - PullRequested
-* [cxwx/homebrew-cxbrew]() - Issuesed
+* [cxwx/homebrew-cxbrew]() - Pushed
+* [cxwx/markdown2typst]() - Pushed
+* [cxwx/markdown2typst]() - Createed
 <!--END_SECTION:activity-->
 
 ---

@@ -35,8 +35,8 @@
 
 <!--START_SECTION:activity-->
 * [cxwx/homebrew-cxbrew]() - Pushed
-* [cxwx/markdown2typst]() - Pushed
-* [cxwx/markdown2typst]() - Createed
+* [cxwx/homebrew-cxbrew]() - Deleteed
+* [cxwx/homebrew-cxbrew]() - Deleteed
 <!--END_SECTION:activity-->
 
 ---
@@ -46,7 +46,7 @@
 <div align="center">
 
 <!--START_SECTION:weather-->
-**Beijing, China** 🌤️ **Sunny +92°F**
+**Beijing, China** 🌤️ **Partly Cloudy  +88°F**
 <!--END_SECTION:weather-->
 
 </div>

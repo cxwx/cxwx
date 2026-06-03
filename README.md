@@ -34,9 +34,9 @@
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-* [li-yiyang/g4]() - Watched
-* [9Bakabaka/CVE-2026-49943-PoC]() - Forked
-* [9Bakabaka/CVE-2026-49943-PoC]() - Watched
+* [cxwx/homebrew-cxbrew]() - Createed
+* [cxwx/homebrew-cxbrew]() - PullRequested
+* [cxwx/homebrew-cxbrew]() - Issuesed
 <!--END_SECTION:activity-->
 
 ---
@@ -46,7 +46,7 @@
 <div align="center">
 
 <!--START_SECTION:weather-->
-**Beijing, China** 🌤️ **Patchy rain nearby +81°F**
+**Beijing, China** 🌤️ **Clear  +68°F**
 <!--END_SECTION:weather-->
 
 </div>

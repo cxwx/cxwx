@@ -34,9 +34,9 @@
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-* [cxwx/homebrew-cxbrew]() - Pushed
-* [cxwx/homebrew-cxbrew]() - Deleteed
-* [cxwx/homebrew-cxbrew]() - Deleteed
+* [li-yiyang/g4]() - Watched
+* [9Bakabaka/CVE-2026-49943-PoC]() - Forked
+* [9Bakabaka/CVE-2026-49943-PoC]() - Watched
 <!--END_SECTION:activity-->
 
 ---

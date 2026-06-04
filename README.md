@@ -34,9 +34,9 @@
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-* [cxwx/sphericalharmonic]() - Createed
-* [cxwx/homebrew-cxbrew]() - Deleteed
-* [cxwx/homebrew-cxbrew]() - Deleteed
+* [cxwx/homebrew-cxbrew]() - Createed
+* [cxwx/homebrew-cxbrew]() - PullRequested
+* [cxwx/homebrew-cxbrew]() - Issuesed
 <!--END_SECTION:activity-->
 
 ---
@@ -46,7 +46,7 @@
 <div align="center">
 
 <!--START_SECTION:weather-->
-**Beijing, China** 🌤️ **Light Rain With Thunderstorm +72°F**
+**Beijing, China** 🌤️ **Patchy rain nearby +67°F**
 <!--END_SECTION:weather-->
 
 </div>

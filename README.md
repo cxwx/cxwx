@@ -34,9 +34,9 @@
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-* [cxwx/G4InstallScript]() - Pushed
-* [cxwx/block3]() - Pushed
-* [cxwx/homebrew-cxbrew]() - Createed
+* [cxwx/homebrew-cxbrew]() - Issuesed
+* [cxwx/homebrew-cxbrew]() - Issuesed
+* [farion1231/cc-switch]() - IssueCommented
 <!--END_SECTION:activity-->
 
 ---
@@ -46,7 +46,7 @@
 <div align="center">
 
 <!--START_SECTION:weather-->
-**Beijing, China** 🌤️ **Sunny +72°F**
+**Beijing, China** 🌤️ **Sunny +77°F**
 <!--END_SECTION:weather-->
 
 </div>

@@ -46,7 +46,7 @@
 <div align="center">
 
 <!--START_SECTION:weather-->
-**Beijing, China** 🌤️ **Thunderstorm +78°F**
+**Beijing, China** 🌤️ **Clear  +72°F**
 <!--END_SECTION:weather-->
 
 </div>

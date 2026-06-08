@@ -34,9 +34,9 @@
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-* [klimaat/emspy]() - Watched
-* [cxwx/homebrew-cxbrew]() - Issuesed
-* [cxwx/homebrew-cxbrew]() - Issuesed
+* [MPAS-Dev/MPAS-Model]() - Watched
+* [fmidev/WRF_installation]() - Watched
+* [bakamotokatas/WRF-Install-Script]() - Issuesed
 <!--END_SECTION:activity-->
 
 ---
@@ -46,7 +46,7 @@
 <div align="center">
 
 <!--START_SECTION:weather-->
-**Beijing, China** 🌤️ **Partly cloudy +85°F**
+**Beijing, China** 🌤️ **Smoky haze +68°F**
 <!--END_SECTION:weather-->
 
 </div>

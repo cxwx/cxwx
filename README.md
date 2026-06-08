@@ -34,9 +34,9 @@
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-* [MPAS-Dev/MPAS-Model]() - Watched
-* [fmidev/WRF_installation]() - Watched
-* [bakamotokatas/WRF-Install-Script]() - Issuesed
+* [jdrupal-dev/css-vars.nvim]() - IssueCommented
+* [QuantumNous/new-api]() - Issuesed
+* [QuantumNous/new-api]() - Issuesed
 <!--END_SECTION:activity-->
 
 ---
@@ -46,7 +46,7 @@
 <div align="center">
 
 <!--START_SECTION:weather-->
-**Beijing, China** 🌤️ **Smoky haze +61°F**
+**Beijing, China** 🌤️ **Sunny +59°F**
 <!--END_SECTION:weather-->
 
 </div>

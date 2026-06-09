@@ -34,9 +34,9 @@
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-* [jdrupal-dev/css-vars.nvim]() - IssueCommented
-* [QuantumNous/new-api]() - Issuesed
-* [QuantumNous/new-api]() - Issuesed
+* [cxwx/homebrew-cxbrew]() - Deleteed
+* [cxwx/homebrew-cxbrew]() - Pushed
+* [cxwx/homebrew-cxbrew]() - PullRequested
 <!--END_SECTION:activity-->
 
 ---
@@ -46,7 +46,7 @@
 <div align="center">
 
 <!--START_SECTION:weather-->
-**Beijing, China** 🌤️ **Sunny +66°F**
+**Beijing, China** 🌤️ **Sunny +78°F**
 <!--END_SECTION:weather-->
 
 </div>

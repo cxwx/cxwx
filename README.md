@@ -35,8 +35,8 @@
 
 <!--START_SECTION:activity-->
 * [cxwx/cxfunc]() - Pushed
+* [cxwx/cxfunc]() - Pushed
 * [sontungexpt/bim.nvim]() - PullRequested
-* [cxwx/homebrew-cxbrew]() - Createed
 <!--END_SECTION:activity-->
 
 ---
@@ -46,7 +46,7 @@
 <div align="center">
 
 <!--START_SECTION:weather-->
-**Beijing, China** 🌤️ **Clear  +68°F**
+**Beijing, China** 🌤️ **Smoky haze +59°F**
 <!--END_SECTION:weather-->
 
 </div>

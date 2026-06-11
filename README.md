@@ -34,9 +34,9 @@
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-* [cxwx/homebrew-cxbrew]() - Createed
-* [cxwx/homebrew-cxbrew]() - PullRequested
-* [cxwx/homebrew-cxbrew]() - Issuesed
+* [eval-exec/neomacs]() - IssueCommented
+* [eval-exec/neomacs]() - IssueCommented
+* [cxwx/block3]() - Pushed
 <!--END_SECTION:activity-->
 
 ---
@@ -46,7 +46,7 @@
 <div align="center">
 
 <!--START_SECTION:weather-->
-**Beijing, China** 🌤️ **Clear  +79°F**
+**Beijing, China** 🌤️ **Clear  +64°F**
 <!--END_SECTION:weather-->
 
 </div>

@@ -36,7 +36,7 @@
 <!--START_SECTION:activity-->
 * [cxwx/cxfunc]() - Pushed
 * [cxwx/cxfunc]() - Pushed
-* [sontungexpt/bim.nvim]() - PullRequested
+* [cxwx/cxfunc]() - Pushed
 <!--END_SECTION:activity-->
 
 ---
@@ -46,7 +46,7 @@
 <div align="center">
 
 <!--START_SECTION:weather-->
-**Beijing, China** 🌤️ **Sunny +79°F**
+**Beijing, China** 🌤️ **Sunny +90°F**
 <!--END_SECTION:weather-->
 
 </div>

@@ -36,7 +36,7 @@
 <!--START_SECTION:activity-->
 * [eval-exec/neomacs]() - IssueCommented
 * [eval-exec/neomacs]() - IssueCommented
-* [cxwx/block3]() - Pushed
+* [eval-exec/neomacs]() - IssueCommented
 <!--END_SECTION:activity-->
 
 ---
@@ -46,7 +46,7 @@
 <div align="center">
 
 <!--START_SECTION:weather-->
-**Beijing, China** 🌤️ **Clear  +64°F**
+**Beijing, China** 🌤️ **Partly Cloudy  +63°F**
 <!--END_SECTION:weather-->
 
 </div>

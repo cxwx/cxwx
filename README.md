@@ -34,9 +34,9 @@
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
+* [shellRaining/hlchunk.nvim]() - IssueCommented
+* [shellRaining/hlchunk.nvim]() - Issuesed
 * [eval-exec/neomacs]() - IssueCommented
-* [eval-exec/neomacs]() - IssueCommented
-* [cxwx/homebrew-cxbrew]() - Pushed
 <!--END_SECTION:activity-->
 
 ---
@@ -46,7 +46,7 @@
 <div align="center">
 
 <!--START_SECTION:weather-->
-**Beijing, China** 🌤️ **Patchy rain nearby +88°F**
+**Beijing, China** 🌤️ **Clear  +75°F**
 <!--END_SECTION:weather-->
 
 </div>

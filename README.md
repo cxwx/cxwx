@@ -35,7 +35,7 @@
 
 <!--START_SECTION:activity-->
 * [eval-exec/neomacs]() - IssueCommented
-* [eval-exec/neomacs]() - IssueCommented
+* [cxwx/homebrew-cxbrew]() - Pushed
 * [eval-exec/neomacs]() - IssueCommented
 <!--END_SECTION:activity-->
 
@@ -46,7 +46,7 @@
 <div align="center">
 
 <!--START_SECTION:weather-->
-**Beijing, China** 🌤️ **Partly Cloudy  +67°F**
+**Beijing, China** 🌤️ **Sunny +81°F**
 <!--END_SECTION:weather-->
 
 </div>

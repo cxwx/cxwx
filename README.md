@@ -34,9 +34,9 @@
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-* [neo451/dot]() - Issuesed
-* [neo451/dot]() - IssueCommented
-* [mosheavni/yaml-companion.nvim]() - IssueCommented
+* [harukikuri/todoage.nvim]() - Watched
+* [cxwx/homebrew-cxbrew]() - PullRequested
+* [cxwx/homebrew-cxbrew]() - Createed
 <!--END_SECTION:activity-->
 
 ---
@@ -46,7 +46,7 @@
 <div align="center">
 
 <!--START_SECTION:weather-->
-**Beijing, China** 🌤️ **Rain With Thunderstorm +79°F**
+**Beijing, China** 🌤️ **Light Rain With Thunderstorm +65°F**
 <!--END_SECTION:weather-->
 
 </div>

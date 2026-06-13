@@ -34,9 +34,9 @@
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-* [shellRaining/hlchunk.nvim]() - IssueCommented
-* [shellRaining/hlchunk.nvim]() - Issuesed
-* [eval-exec/neomacs]() - IssueCommented
+* [neo451/dot]() - Issuesed
+* [neo451/dot]() - IssueCommented
+* [mosheavni/yaml-companion.nvim]() - IssueCommented
 <!--END_SECTION:activity-->
 
 ---
@@ -46,7 +46,7 @@
 <div align="center">
 
 <!--START_SECTION:weather-->
-**Beijing, China** 🌤️ **Thundery outbreaks in nearby +79°F**
+**Beijing, China** 🌤️ **Rain With Thunderstorm +79°F**
 <!--END_SECTION:weather-->
 
 </div>

@@ -34,9 +34,9 @@
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-* [neovim/neovim]() - IssueCommented
+* [cxwx/homebrew-cxbrew]() - Deleteed
 * [cxwx/homebrew-cxbrew]() - PullRequested
-* [cxwx/homebrew-cxbrew]() - Createed
+* [cxwx/homebrew-cxbrew]() - Issuesed
 <!--END_SECTION:activity-->
 
 ---
@@ -46,7 +46,7 @@
 <div align="center">
 
 <!--START_SECTION:weather-->
-**Beijing, China** 🌤️ **Mist +79°F**
+**Beijing, China** 🌤️ **Light Rain Shower +72°F**
 <!--END_SECTION:weather-->
 
 </div>

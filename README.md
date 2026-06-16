@@ -34,9 +34,9 @@
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-* [saghen/blink.compat]() - IssueCommented
-* [saghen/blink.compat]() - Issuesed
-* [saghen/blink.compat]() - Issuesed
+* [kicanter/candela.nvim]() - IssueCommented
+* [cxwx/homebrew-cxbrew]() - Pushed
+* [cxwx/cxGeant4]() - Pushed
 <!--END_SECTION:activity-->
 
 ---
@@ -46,7 +46,7 @@
 <div align="center">
 
 <!--START_SECTION:weather-->
-**Beijing, China** 🌤️ **Light Rain Shower +76°F**
+**Beijing, China** 🌤️ **Sunny +77°F**
 <!--END_SECTION:weather-->
 
 </div>

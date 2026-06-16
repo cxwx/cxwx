@@ -34,9 +34,9 @@
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-* [cxwx/homebrew-cxbrew]() - Deleteed
-* [cxwx/homebrew-cxbrew]() - Deleteed
-* [cxwx/homebrew-cxbrew]() - Deleteed
+* [saghen/blink.compat]() - IssueCommented
+* [saghen/blink.compat]() - Issuesed
+* [saghen/blink.compat]() - Issuesed
 <!--END_SECTION:activity-->
 
 ---
@@ -46,7 +46,7 @@
 <div align="center">
 
 <!--START_SECTION:weather-->
-**Beijing, China** 🌤️ **Mist +70°F**
+**Beijing, China** 🌤️ **Light Rain Shower +76°F**
 <!--END_SECTION:weather-->
 
 </div>

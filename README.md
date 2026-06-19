@@ -34,9 +34,9 @@
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-* [cxwx/awesome-agents]() - Pushed
-* [cxwx/ai-proxy]() - Pushed
 * [cxwx/homebrew-cxbrew]() - Pushed
+* [cxwx/homebrew-cxbrew]() - Pushed
+* [cxwx/awesome-agents]() - Pushed
 <!--END_SECTION:activity-->
 
 ---
@@ -46,7 +46,7 @@
 <div align="center">
 
 <!--START_SECTION:weather-->
-**Beijing, China** 🌤️ **Mist +81°F**
+**Beijing, China** 🌤️ **Light Rain With Thunderstorm +74°F**
 <!--END_SECTION:weather-->
 
 </div>

@@ -34,8 +34,8 @@
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-* [okolo/mcray]() - Forked
-* [cxwx/homebrew-cxbrew]() - Pushed
+* [cxwx/awesome-agents]() - Pushed
+* [cxwx/ai-proxy]() - Pushed
 * [cxwx/homebrew-cxbrew]() - Pushed
 <!--END_SECTION:activity-->
 
@@ -46,7 +46,7 @@
 <div align="center">
 
 <!--START_SECTION:weather-->
-**Beijing, China** 🌤️ **Mist +77°F**
+**Beijing, China** 🌤️ **Mist +81°F**
 <!--END_SECTION:weather-->
 
 </div>

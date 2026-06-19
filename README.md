@@ -36,7 +36,7 @@
 <!--START_SECTION:activity-->
 * [cxwx/homebrew-cxbrew]() - Pushed
 * [cxwx/homebrew-cxbrew]() - Pushed
-* [cxwx/awesome-agents]() - Pushed
+* [cxwx/homebrew-cxbrew]() - Pushed
 <!--END_SECTION:activity-->
 
 ---
@@ -46,7 +46,7 @@
 <div align="center">
 
 <!--START_SECTION:weather-->
-**Beijing, China** 🌤️ **Light Rain With Thunderstorm +74°F**
+**Beijing, China** 🌤️ **Light Rain Shower +71°F**
 <!--END_SECTION:weather-->
 
 </div>

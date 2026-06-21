@@ -34,9 +34,9 @@
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
+* [cxwx/lazyUrlUpdate.nvim]() - Pushed
+* [cxwx/lazyUrlUpdate.nvim]() - Pushed
 * [cxwx/homebrew-cxbrew]() - Issuesed
-* [cxwx/homebrew-cxbrew]() - PullRequested
-* [cxwx/homebrew-cxbrew]() - Pushed
 <!--END_SECTION:activity-->
 
 ---
@@ -46,7 +46,7 @@
 <div align="center">
 
 <!--START_SECTION:weather-->
-**Beijing, China** 🌤️ **Sunny +81°F**
+**Beijing, China** 🌤️ **Partly Cloudy  +88°F**
 <!--END_SECTION:weather-->
 
 </div>

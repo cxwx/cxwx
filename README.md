@@ -34,9 +34,9 @@
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-* [cxwx/homebrew-cxbrew]() - Deleteed
-* [cxwx/homebrew-cxbrew]() - Pushed
-* [cxwx/homebrew-cxbrew]() - Issuesed
+* [cxwx/cxfunc]() - Pushed
+* [cxwx/cxfunc]() - Pushed
+* [cxwx/cxfunc]() - Pushed
 <!--END_SECTION:activity-->
 
 ---
@@ -46,7 +46,7 @@
 <div align="center">
 
 <!--START_SECTION:weather-->
-**Beijing, China** 🌤️ **Sunny +81°F**
+**Beijing, China** 🌤️ **Thunderstorm +88°F**
 <!--END_SECTION:weather-->
 
 </div>

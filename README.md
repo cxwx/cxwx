@@ -34,7 +34,7 @@
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-* [cxwx/cxfunc]() - Pushed
+* [cxwx/homebrew-cxbrew]() - Issuesed
 * [cxwx/cxfunc]() - Pushed
 * [cxwx/cxfunc]() - Pushed
 <!--END_SECTION:activity-->
@@ -46,7 +46,7 @@
 <div align="center">
 
 <!--START_SECTION:weather-->
-**Beijing, China** 🌤️ **Partly Cloudy  +67°F**
+**Beijing, China** 🌤️ **Patchy rain nearby +70°F**
 <!--END_SECTION:weather-->
 
 </div>

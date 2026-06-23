@@ -34,9 +34,9 @@
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-* [cxwx/homebrew-cxbrew]() - Issuesed
-* [cxwx/cxfunc]() - Pushed
-* [cxwx/cxfunc]() - Pushed
+* [cxwx/cxMathPreview.nvim]() - Pushed
+* [cxwx/cxMathPreview.nvim]() - Pushed
+* [cxwx/cxMathPreview.nvim]() - Createed
 <!--END_SECTION:activity-->
 
 ---
@@ -46,7 +46,7 @@
 <div align="center">
 
 <!--START_SECTION:weather-->
-**Beijing, China** 🌤️ **Patchy rain nearby +70°F**
+**Beijing, China** 🌤️ **Thunderstorm +81°F**
 <!--END_SECTION:weather-->
 
 </div>

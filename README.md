@@ -34,9 +34,9 @@
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-* [cxwx/homebrew-cxbrew]() - Pushed
-* [cxwx/shadowMyName.nvim]() - Createed
-* [cxwx/homebrew-cxbrew]() - Issuesed
+* [cxwx/awesome-neovim]() - Pushed
+* [rockerBOO/awesome-neovim]() - PullRequested
+* [cxwx/awesome-neovim]() - Pushed
 <!--END_SECTION:activity-->
 
 ---

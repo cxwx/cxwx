@@ -34,8 +34,8 @@
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
+* [eetann/senpai.nvim]() - Issuesed
 * [Homebrew/brew]() - IssueCommented
-* [cxwx/homebrew-cxbrew]() - Pushed
 * [cxwx/homebrew-cxbrew]() - Pushed
 <!--END_SECTION:activity-->
 
@@ -46,7 +46,7 @@
 <div align="center">
 
 <!--START_SECTION:weather-->
-**Beijing, China** 🌤️ **Smoky haze +68°F**
+**Beijing, China** 🌤️ **Smoky haze +64°F**
 <!--END_SECTION:weather-->
 
 </div>

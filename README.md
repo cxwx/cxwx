@@ -34,9 +34,9 @@
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
+* [Homebrew/brew]() - IssueCommented
 * [cxwx/homebrew-cxbrew]() - Pushed
 * [cxwx/homebrew-cxbrew]() - Pushed
-* [librepods-org/librepods]() - Watched
 <!--END_SECTION:activity-->
 
 ---
@@ -46,7 +46,7 @@
 <div align="center">
 
 <!--START_SECTION:weather-->
-**Beijing, China** 🌤️ **Smoky haze +83°F**
+**Beijing, China** 🌤️ **Smoky haze +68°F**
 <!--END_SECTION:weather-->
 
 </div>

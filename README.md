@@ -34,9 +34,9 @@
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-* [cxwx/awesome-neovim]() - Pushed
-* [rockerBOO/awesome-neovim]() - PullRequested
-* [cxwx/awesome-neovim]() - Pushed
+* [librepods-org/librepods]() - Watched
+* [cxwx/homebrew-cxbrew]() - Pushed
+* [cxwx/homebrew-cxbrew]() - Pushed
 <!--END_SECTION:activity-->
 
 ---
@@ -46,7 +46,7 @@
 <div align="center">
 
 <!--START_SECTION:weather-->
-**Beijing, China** 🌤️ **Sunny +81°F**
+**Beijing, China** 🌤️ **Sunny +88°F**
 <!--END_SECTION:weather-->
 
 </div>

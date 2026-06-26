@@ -34,9 +34,9 @@
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
+* [AckslD/nvim-FeMaco.lua]() - IssueCommented
+* [tar-xz/CVE-2026-53519-PoC]() - Watched
 * [JoosepAlviste/nvim-ts-context-commentstring]() - Issuesed
-* [eetann/senpai.nvim]() - Issuesed
-* [Homebrew/brew]() - IssueCommented
 <!--END_SECTION:activity-->
 
 ---
@@ -46,7 +46,7 @@
 <div align="center">
 
 <!--START_SECTION:weather-->
-**Beijing, China** 🌤️ **Sunny +86°F**
+**Beijing, China** 🌤️ **Sunny +90°F**
 <!--END_SECTION:weather-->
 
 </div>

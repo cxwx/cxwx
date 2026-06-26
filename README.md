@@ -34,9 +34,9 @@
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
+* [JoosepAlviste/nvim-ts-context-commentstring]() - Issuesed
 * [eetann/senpai.nvim]() - Issuesed
 * [Homebrew/brew]() - IssueCommented
-* [cxwx/homebrew-cxbrew]() - Pushed
 <!--END_SECTION:activity-->
 
 ---
@@ -46,7 +46,7 @@
 <div align="center">
 
 <!--START_SECTION:weather-->
-**Beijing, China** 🌤️ **Smoky haze +67°F**
+**Beijing, China** 🌤️ **Sunny +86°F**
 <!--END_SECTION:weather-->
 
 </div>

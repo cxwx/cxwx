@@ -34,9 +34,9 @@
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
+* [cxwx/homebrew-cxbrew]() - Pushed
 * [cxwx/awesome-neovim]() - Pushed
 * [farion1231/cc-switch]() - IssueCommented
-* [cxwx/homebrew-cxbrew]() - Issuesed
 <!--END_SECTION:activity-->
 
 ---
@@ -46,7 +46,7 @@
 <div align="center">
 
 <!--START_SECTION:weather-->
-**Beijing, China** 🌤️ **Sunny +83°F**
+**Beijing, China** 🌤️ **Sunny +94°F**
 <!--END_SECTION:weather-->
 
 </div>

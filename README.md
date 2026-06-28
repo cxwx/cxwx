@@ -34,7 +34,7 @@
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-* [cxwx/homebrew-cxbrew]() - Deleteed
+* [rockerBOO/awesome-neovim]() - IssueCommented
 * [cxwx/homebrew-cxbrew]() - Deleteed
 * [cxwx/homebrew-cxbrew]() - Deleteed
 <!--END_SECTION:activity-->
@@ -46,7 +46,7 @@
 <div align="center">
 
 <!--START_SECTION:weather-->
-**Beijing, China** 🌤️ **Patchy light drizzle +83°F**
+**Beijing, China** 🌤️ **Thundery outbreaks in nearby +92°F**
 <!--END_SECTION:weather-->
 
 </div>

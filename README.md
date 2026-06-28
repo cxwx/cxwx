@@ -46,7 +46,7 @@
 <div align="center">
 
 <!--START_SECTION:weather-->
-**Beijing, China** 🌤️ **Light Rain With Thunderstorm +74°F**
+**Beijing, China** 🌤️ **Light Rain With Thunderstorm, Mist +71°F**
 <!--END_SECTION:weather-->
 
 </div>

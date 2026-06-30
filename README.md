@@ -34,9 +34,9 @@
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-* [cxwx/homebrew-cxbrew]() - Createed
-* [cxwx/homebrew-cxbrew]() - PullRequested
-* [cxwx/homebrew-cxbrew]() - Issuesed
+* [cxwx/awesome-root-cern]() - Pushed
+* [cxwx/catalogForHE]() - Pushed
+* [cxwx/fits-preview.yazi]() - Pushed
 <!--END_SECTION:activity-->
 
 ---
@@ -46,7 +46,7 @@
 <div align="center">
 
 <!--START_SECTION:weather-->
-**Beijing, China** 🌤️ **Partly cloudy +69°F**
+**Beijing, China** 🌤️ **Patchy rain nearby +76°F**
 <!--END_SECTION:weather-->
 
 </div>

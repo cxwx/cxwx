@@ -35,8 +35,8 @@
 
 <!--START_SECTION:activity-->
 * [cxwx/awesome-root-cern]() - Pushed
-* [cxwx/catalogForHE]() - Pushed
-* [cxwx/fits-preview.yazi]() - Pushed
+* [root-project/root]() - IssueCommented
+* [cxwx/q1]() - Pushed
 <!--END_SECTION:activity-->
 
 ---
@@ -46,7 +46,7 @@
 <div align="center">
 
 <!--START_SECTION:weather-->
-**Beijing, China** 🌤️ **Smoky haze +78°F**
+**Beijing, China** 🌤️ **Patchy rain nearby +74°F**
 <!--END_SECTION:weather-->
 
 </div>

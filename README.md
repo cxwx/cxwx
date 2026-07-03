@@ -34,9 +34,9 @@
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
+* [andersevenrud/nvim_context_vt]() - Issuesed
 * [cxwx/homebrew-cxbrew]() - Createed
 * [cxwx/homebrew-cxbrew]() - PullRequested
-* [cxwx/homebrew-cxbrew]() - Issuesed
 <!--END_SECTION:activity-->
 
 ---
@@ -46,7 +46,7 @@
 <div align="center">
 
 <!--START_SECTION:weather-->
-**Beijing, China** 🌤️ **Thunderstorm +92°F**
+**Beijing, China** 🌤️ **Light Rain Shower +83°F**
 <!--END_SECTION:weather-->
 
 </div>

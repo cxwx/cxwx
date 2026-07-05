@@ -46,7 +46,7 @@
 <div align="center">
 
 <!--START_SECTION:weather-->
-**Beijing, China** 🌤️ **Clear  +81°F**
+**Beijing, China** 🌤️ **Smoky haze +72°F**
 <!--END_SECTION:weather-->
 
 </div>

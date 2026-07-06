@@ -34,9 +34,9 @@
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
+* [andersevenrud/nvim_context_vt]() - PullRequested
 * [Wansmer/treesj]() - IssueCommented
 * [andersevenrud/nvim_context_vt]() - PullRequested
-* [cxwx/nvim_context_vt]() - Pushed
 <!--END_SECTION:activity-->
 
 ---
@@ -46,7 +46,7 @@
 <div align="center">
 
 <!--START_SECTION:weather-->
-**Beijing, China** 🌤️ **Partly Cloudy  +92°F**
+**Beijing, China** 🌤️ **Light Rain Shower +75°F**
 <!--END_SECTION:weather-->
 
 </div>

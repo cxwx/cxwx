@@ -34,9 +34,9 @@
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-* [andersevenrud/nvim_context_vt]() - PullRequested
-* [Wansmer/treesj]() - IssueCommented
-* [andersevenrud/nvim_context_vt]() - PullRequested
+* [fakejournal/fake-submissions]() - Watched
+* [cxwx/homebrew-cxbrew]() - Createed
+* [cxwx/homebrew-cxbrew]() - PullRequested
 <!--END_SECTION:activity-->
 
 ---
@@ -46,7 +46,7 @@
 <div align="center">
 
 <!--START_SECTION:weather-->
-**Beijing, China** 🌤️ **Moderate or heavy rain with thunder +76°F**
+**Beijing, China** 🌤️ **Patchy rain nearby +74°F**
 <!--END_SECTION:weather-->
 
 </div>

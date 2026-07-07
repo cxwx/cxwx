@@ -46,7 +46,7 @@
 <div align="center">
 
 <!--START_SECTION:weather-->
-**Beijing, China** 🌤️ **Sunny +85°F**
+**Beijing, China** 🌤️ **Sunny +90°F**
 <!--END_SECTION:weather-->
 
 </div>

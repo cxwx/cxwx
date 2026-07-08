@@ -34,9 +34,9 @@
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-* [fakejournal/fake-submissions]() - Watched
 * [cxwx/homebrew-cxbrew]() - Createed
 * [cxwx/homebrew-cxbrew]() - PullRequested
+* [cxwx/homebrew-cxbrew]() - Issuesed
 <!--END_SECTION:activity-->
 
 ---
@@ -46,7 +46,7 @@
 <div align="center">
 
 <!--START_SECTION:weather-->
-**Beijing, China** 🌤️ **Sunny +88°F**
+**Beijing, China** 🌤️ **Patchy rain nearby +85°F**
 <!--END_SECTION:weather-->
 
 </div>

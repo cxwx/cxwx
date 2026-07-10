@@ -46,7 +46,7 @@
 <div align="center">
 
 <!--START_SECTION:weather-->
-**Beijing, China** 🌤️ **Light Rain Shower, Mist +77°F**
+**Beijing, China** 🌤️ **Overcast +77°F**
 <!--END_SECTION:weather-->
 
 </div>

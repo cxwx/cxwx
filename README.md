@@ -35,8 +35,8 @@
 
 <!--START_SECTION:activity-->
 * [cxwx/homebrew-cxbrew]() - Issuesed
-* [cxwx/homebrew-cxbrew]() - Issuesed
-* [cxwx/homebrew-cxbrew]() - Issuesed
+* [cxwx/homebrew-cxbrew]() - Createed
+* [cxwx/homebrew-cxbrew]() - PullRequested
 <!--END_SECTION:activity-->
 
 ---
@@ -46,7 +46,7 @@
 <div align="center">
 
 <!--START_SECTION:weather-->
-**Beijing, China** 🌤️ **Sunny +88°F**
+**Beijing, China** 🌤️ **Overcast  +86°F**
 <!--END_SECTION:weather-->
 
 </div>

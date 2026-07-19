@@ -46,7 +46,7 @@
 <div align="center">
 
 <!--START_SECTION:weather-->
-**Beijing, China** 🌤️ **Patchy light drizzle +84°F**
+**Beijing, China** 🌤️ **Thunderstorm +81°F**
 <!--END_SECTION:weather-->
 
 </div>

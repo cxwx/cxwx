@@ -46,7 +46,7 @@
 <div align="center">
 
 <!--START_SECTION:weather-->
-**Beijing, China** 🌤️ **Partly cloudy +74°F**
+**Beijing, China** 🌤️ **Cloudy  +79°F**
 <!--END_SECTION:weather-->
 
 </div>

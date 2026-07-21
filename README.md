@@ -46,7 +46,7 @@
 <div align="center">
 
 <!--START_SECTION:weather-->
-**Beijing, China** 🌤️ **Thundery outbreaks in nearby +83°F**
+**Beijing, China** 🌤️ **Patchy light drizzle +79°F**
 <!--END_SECTION:weather-->
 
 </div>

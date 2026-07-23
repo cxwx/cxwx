@@ -46,7 +46,7 @@
 <div align="center">
 
 <!--START_SECTION:weather-->
-**Beijing, China** 🌤️ **Thundery outbreaks in nearby +78°F**
+**Beijing, China** 🌤️ **Smoky haze +78°F**
 <!--END_SECTION:weather-->
 
 </div>

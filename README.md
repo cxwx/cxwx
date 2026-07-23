@@ -36,7 +36,7 @@
 <!--START_SECTION:activity-->
 * [cxwx/homebrew-cxbrew]() - Issuesed
 * [cxwx/homebrew-cxbrew]() - Issuesed
-* [cxwx/homebrew-cxbrew]() - IssueCommented
+* [cxwx/homebrew-cxbrew]() - Createed
 <!--END_SECTION:activity-->
 
 ---
@@ -46,7 +46,7 @@
 <div align="center">
 
 <!--START_SECTION:weather-->
-**Beijing, China** 🌤️ **Patchy rain nearby +83°F**
+**Beijing, China** 🌤️ **Thundery outbreaks in nearby +78°F**
 <!--END_SECTION:weather-->
 
 </div>

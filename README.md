@@ -34,7 +34,7 @@
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-* [cxwx/homebrew-cxbrew]() - Issuesed
+* [mreininghaus/npystream]() - Watched
 * [cxwx/homebrew-cxbrew]() - Issuesed
 * [cxwx/homebrew-cxbrew]() - Issuesed
 <!--END_SECTION:activity-->
@@ -46,7 +46,7 @@
 <div align="center">
 
 <!--START_SECTION:weather-->
-**Beijing, China** 🌤️ **Thundery outbreaks in nearby +98°F**
+**Beijing, China** 🌤️ **Thundery outbreaks in nearby +96°F**
 <!--END_SECTION:weather-->
 
 </div>

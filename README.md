@@ -46,7 +46,7 @@
 <div align="center">
 
 <!--START_SECTION:weather-->
-**Beijing, China** 🌤️ **Patchy light rain in area with thunder +87°F**
+**Beijing, China** 🌤️ **Patchy rain nearby +82°F**
 <!--END_SECTION:weather-->
 
 </div>

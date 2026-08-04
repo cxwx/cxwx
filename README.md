@@ -34,9 +34,9 @@
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-* [HathewayWill/WRF-MOSIT]() - Issuesed
-* [cxwx/homebrew-cxbrew]() - PullRequested
+* [v2fly/domain-list-community]() - Watched
 * [cxwx/homebrew-cxbrew]() - Pushed
+* [cxwx/homebrew-cxbrew]() - PullRequested
 <!--END_SECTION:activity-->
 
 ---
@@ -46,7 +46,7 @@
 <div align="center">
 
 <!--START_SECTION:weather-->
-**Beijing, China** 🌤️ **Sunny +93°F**
+**Beijing, China** 🌤️ **Clear  +87°F**
 <!--END_SECTION:weather-->
 
 </div>

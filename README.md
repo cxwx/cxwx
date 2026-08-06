@@ -34,9 +34,9 @@
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-* [v2fly/domain-list-community]() - Watched
-* [cxwx/homebrew-cxbrew]() - Pushed
+* [Homebrew/discussions]() - Discussioned
 * [cxwx/homebrew-cxbrew]() - PullRequested
+* [cxwx/homebrew-cxbrew]() - Issuesed
 <!--END_SECTION:activity-->
 
 ---
@@ -46,7 +46,7 @@
 <div align="center">
 
 <!--START_SECTION:weather-->
-**Beijing, China** 🌤️ **Sunny +99°F**
+**Beijing, China** 🌤️ **Smoky haze +91°F**
 <!--END_SECTION:weather-->
 
 </div>

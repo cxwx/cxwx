@@ -34,9 +34,9 @@
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
+* [cxwx/homebrew-cxbrew]() - Pushed
 * [Homebrew/discussions]() - Discussioned
 * [cxwx/homebrew-cxbrew]() - PullRequested
-* [cxwx/homebrew-cxbrew]() - Issuesed
 <!--END_SECTION:activity-->
 
 ---
@@ -46,7 +46,7 @@
 <div align="center">
 
 <!--START_SECTION:weather-->
-**Beijing, China** 🌤️ **Smoky haze +91°F**
+**Beijing, China** 🌤️ **Smoky haze +85°F**
 <!--END_SECTION:weather-->
 
 </div>

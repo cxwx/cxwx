@@ -46,7 +46,7 @@
 <div align="center">
 
 <!--START_SECTION:weather-->
-**Beijing, China** 🌤️ **Partly Cloudy  +95°F**
+**Beijing, China** 🌤️ **Thundery outbreaks in nearby +96°F**
 <!--END_SECTION:weather-->
 
 </div>

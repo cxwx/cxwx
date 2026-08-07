@@ -46,7 +46,7 @@
 <div align="center">
 
 <!--START_SECTION:weather-->
-**Beijing, China** 🌤️ **Moderate or heavy rain with thunder +81°F**
+**Beijing, China** 🌤️ **Light rain shower +81°F**
 <!--END_SECTION:weather-->
 
 </div>

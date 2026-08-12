@@ -34,9 +34,9 @@
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
+* [Bistutu/FluentRead]() - Watched
+* [Bistutu/FluentRead]() - Issuesed
 * [cxwx/homebrew-cxbrew]() - Pushed
-* [cxwx/homebrew-cxbrew]() - Issuesed
-* [cxwx/homebrew-cxbrew]() - PullRequested
 <!--END_SECTION:activity-->
 
 ---
@@ -46,7 +46,7 @@
 <div align="center">
 
 <!--START_SECTION:weather-->
-**Beijing, China** 🌤️ **Light rain +79°F**
+**Beijing, China** 🌤️ **Partly cloudy +81°F**
 <!--END_SECTION:weather-->
 
 </div>

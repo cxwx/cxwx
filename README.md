@@ -34,9 +34,9 @@
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
+* [murrez/CVE-2026-41940]() - Watched
 * [Bistutu/FluentRead]() - Watched
 * [Bistutu/FluentRead]() - Issuesed
-* [cxwx/homebrew-cxbrew]() - Pushed
 <!--END_SECTION:activity-->
 
 ---
@@ -46,7 +46,7 @@
 <div align="center">
 
 <!--START_SECTION:weather-->
-**Beijing, China** 🌤️ **Smoky haze +80°F**
+**Beijing, China** 🌤️ **Sunny +82°F**
 <!--END_SECTION:weather-->
 
 </div>

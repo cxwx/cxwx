@@ -34,8 +34,8 @@
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
+* [BetweenWalls/PD2-Singleplayer]() - Watched
 * [Gcenx/homebrew-wine]() - Watched
-* [cxwx/homebrew-cxbrew]() - Pushed
 * [cxwx/homebrew-cxbrew]() - Pushed
 <!--END_SECTION:activity-->
 

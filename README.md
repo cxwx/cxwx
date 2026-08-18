@@ -34,9 +34,9 @@
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
+* [Gcenx/homebrew-wine]() - Watched
 * [cxwx/homebrew-cxbrew]() - Pushed
-* [cxwx/homebrew-cxbrew]() - PullRequested
-* [cxwx/homebrew-cxbrew]() - Issuesed
+* [cxwx/homebrew-cxbrew]() - Pushed
 <!--END_SECTION:activity-->
 
 ---
@@ -46,7 +46,7 @@
 <div align="center">
 
 <!--START_SECTION:weather-->
-**Beijing, China** 🌤️ **Patchy rain nearby +79°F**
+**Beijing, China** 🌤️ **Smoky haze +75°F**
 <!--END_SECTION:weather-->
 
 </div>

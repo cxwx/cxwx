@@ -34,9 +34,9 @@
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
+* [ChaosMarc/PlugY]() - Forked
+* [ChaosMarc/PlugY]() - Watched
 * [mrpara/d2_plugy_stash_organizer]() - IssueCommented
-* [cxwx/homebrew-cxbrew]() - Pushed
-* [cxwx/homebrew-cxbrew]() - PullRequested
 <!--END_SECTION:activity-->
 
 ---
@@ -46,7 +46,7 @@
 <div align="center">
 
 <!--START_SECTION:weather-->
-**Beijing, China** 🌤️ **Mist +80°F**
+**Beijing, China** 🌤️ **Smoky haze +79°F**
 <!--END_SECTION:weather-->
 
 </div>

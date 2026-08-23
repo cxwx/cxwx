@@ -34,9 +34,9 @@
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
+* [mrpara/d2_plugy_stash_organizer]() - IssueCommented
 * [cxwx/homebrew-cxbrew]() - Pushed
 * [cxwx/homebrew-cxbrew]() - PullRequested
-* [cxwx/homebrew-cxbrew]() - Issuesed
 <!--END_SECTION:activity-->
 
 ---
@@ -46,7 +46,7 @@
 <div align="center">
 
 <!--START_SECTION:weather-->
-**Beijing, China** 🌤️ **Overcast  +82°F**
+**Beijing, China** 🌤️ **Mist +80°F**
 <!--END_SECTION:weather-->
 
 </div>

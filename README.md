@@ -34,9 +34,9 @@
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
+* [WolfieeifloW/LoD-PlugY-Stash]() - Forked
+* [WolfieeifloW/LoD-PlugY-Stash]() - Watched
 * [ChaosMarc/PlugY]() - Issuesed
-* [cxwx/homebrew-cxbrew]() - Pushed
-* [cxwx/homebrew-cxbrew]() - Issuesed
 <!--END_SECTION:activity-->
 
 ---

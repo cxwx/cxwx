@@ -34,8 +34,8 @@
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
+* [ChaosMarc/PlugY]() - Issuesed
 * [cxwx/homebrew-cxbrew]() - Pushed
-* [cxwx/homebrew-cxbrew]() - Issuesed
 * [cxwx/homebrew-cxbrew]() - Issuesed
 <!--END_SECTION:activity-->
 
@@ -46,7 +46,7 @@
 <div align="center">
 
 <!--START_SECTION:weather-->
-**Beijing, China** 🌤️ **Smoky haze +82°F**
+**Beijing, China** 🌤️ **Patchy rain nearby +72°F**
 <!--END_SECTION:weather-->
 
 </div>

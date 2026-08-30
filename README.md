@@ -34,9 +34,9 @@
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-* [cyhyraethz/d2-sp-mods]() - Watched
-* [cxwx/homebrew-cxbrew]() - PullRequested
-* [cxwx/homebrew-cxbrew]() - Issuesed
+* [dschu012/d2s]() - Watched
+* [cxwx/homebrew-cxbrew]() - Createed
+* [whipowill/d2-113c-txt]() - Watched
 <!--END_SECTION:activity-->
 
 ---
@@ -46,7 +46,7 @@
 <div align="center">
 
 <!--START_SECTION:weather-->
-**Beijing, China** 🌤️ **Clear +78°F**
+**Beijing, China** 🌤️ **Smoky haze +72°F**
 <!--END_SECTION:weather-->
 
 </div>

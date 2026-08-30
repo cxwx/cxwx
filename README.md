@@ -34,8 +34,8 @@
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
+* [cyhyraethz/d2-sp-mods]() - Watched
 * [cxwx/homebrew-cxbrew]() - PullRequested
-* [cxwx/homebrew-cxbrew]() - Pushed
 * [cxwx/homebrew-cxbrew]() - Issuesed
 <!--END_SECTION:activity-->
 
@@ -46,7 +46,7 @@
 <div align="center">
 
 <!--START_SECTION:weather-->
-**Beijing, China** 🌤️ **Sunny +89°F**
+**Beijing, China** 🌤️ **Clear +78°F**
 <!--END_SECTION:weather-->
 
 </div>

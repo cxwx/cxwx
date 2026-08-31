@@ -34,9 +34,9 @@
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-* [dschu012/d2s]() - Watched
-* [cxwx/homebrew-cxbrew]() - Createed
-* [whipowill/d2-113c-txt]() - Watched
+* [cxwx/homebrew-cxbrew]() - Issuesed
+* [cxwx/homebrew-cxbrew]() - Issuesed
+* [cxwx/homebrew-cxbrew]() - Issuesed
 <!--END_SECTION:activity-->
 
 ---
@@ -46,7 +46,7 @@
 <div align="center">
 
 <!--START_SECTION:weather-->
-**Beijing, China** 🌤️ **Sunny +83°F**
+**Beijing, China** 🌤️ **Smoky haze +70°F**
 <!--END_SECTION:weather-->
 
 </div>

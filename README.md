@@ -36,7 +36,7 @@
 <!--START_SECTION:activity-->
 * [cxwx/homebrew-cxbrew]() - PullRequested
 * [cxwx/homebrew-cxbrew]() - Issuesed
-* [cxwx/homebrew-cxbrew]() - PullRequested
+* [cxwx/homebrew-cxbrew]() - Issuesed
 <!--END_SECTION:activity-->
 
 ---
@@ -46,7 +46,7 @@
 <div align="center">
 
 <!--START_SECTION:weather-->
-**Beijing, China** 🌤️ **Sunny +92°F**
+**Beijing, China** 🌤️ **Smoky haze +82°F**
 <!--END_SECTION:weather-->
 
 </div>

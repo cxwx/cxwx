@@ -34,9 +34,9 @@
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
+* [cxwx/homebrew-cxbrew]() - Createed
 * [wernerturing/multi-delogo]() - Issuesed
 * [cxwx/homebrew-cxbrew]() - Issuesed
-* [wernerturing/multi-delogo]() - IssueCommented
 <!--END_SECTION:activity-->
 
 ---
@@ -46,7 +46,7 @@
 <div align="center">
 
 <!--START_SECTION:weather-->
-**Beijing, China** 🌤️ **Smoky haze +68°F**
+**Beijing, China** 🌤️ **Smoky haze +65°F**
 <!--END_SECTION:weather-->
 
 </div>

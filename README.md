@@ -34,9 +34,9 @@
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
+* [cxwx/homebrew-cxbrew]() - PullRequested
 * [wernerturing/homebrew-multi-delogo]() - Issuesed
 * [michealroberts/pwi]() - Watched
-* [cxwx/homebrew-cxbrew]() - Pushed
 <!--END_SECTION:activity-->
 
 ---
@@ -46,7 +46,7 @@
 <div align="center">
 
 <!--START_SECTION:weather-->
-**Beijing, China** 🌤️ **Patchy rain nearby +65°F**
+**Beijing, China** 🌤️ **Smoky haze +71°F**
 <!--END_SECTION:weather-->
 
 </div>

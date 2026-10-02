@@ -34,8 +34,8 @@
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-* [PrincetonUniversity/athena]() - Forked
-* [PrincetonUniversity/athena]() - Watched
+* [cxwx/homebrew-cxbrew]() - Issuesed
+* [cxwx/homebrew-cxbrew]() - Issuesed
 * [cxwx/homebrew-cxbrew]() - PullRequested
 <!--END_SECTION:activity-->
 
@@ -46,7 +46,7 @@
 <div align="center">
 
 <!--START_SECTION:weather-->
-**Beijing, China** 🌤️ **Sunny +65°F**
+**Beijing, China** 🌤️ **Overcast  +69°F**
 <!--END_SECTION:weather-->
 
 </div>

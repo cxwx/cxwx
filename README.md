@@ -34,9 +34,9 @@
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
+* [cxwx/homebrew-cxbrew]() - Deleteed
+* [cxwx/homebrew-cxbrew]() - Deleteed
 * [cxwx/homebrew-cxbrew]() - Pushed
-* [cxwx/homebrew-cxbrew]() - PullRequested
-* [cxwx/homebrew-cxbrew]() - Createed
 <!--END_SECTION:activity-->
 
 ---
@@ -46,7 +46,7 @@
 <div align="center">
 
 <!--START_SECTION:weather-->
-**Beijing, China** 🌤️ **Clear  +65°F**
+**Beijing, China** 🌤️ **Overcast  +59°F**
 <!--END_SECTION:weather-->
 
 </div>

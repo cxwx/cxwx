@@ -34,9 +34,9 @@
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
+* [root-project/root]() - Issuesed
+* [root-project/root]() - Issuesed
 * [sparanoid/chinese-copywriting-guidelines]() - Watched
-* [akiselev/ghidra-cli]() - Watched
-* [akiselev/ghidra-cli]() - Forked
 <!--END_SECTION:activity-->
 
 ---
@@ -46,7 +46,7 @@
 <div align="center">
 
 <!--START_SECTION:weather-->
-**Beijing, China** 🌤️ **Smoky haze +63°F**
+**Beijing, China** 🌤️ **Sunny +74°F**
 <!--END_SECTION:weather-->
 
 </div>

@@ -34,9 +34,9 @@
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-* [root-project/root]() - Issuesed
-* [root-project/root]() - Issuesed
-* [sparanoid/chinese-copywriting-guidelines]() - Watched
+* [cxwx/homebrew-cxbrew]() - Issuesed
+* [cxwx/homebrew-cxbrew]() - Createed
+* [cxwx/homebrew-cxbrew]() - PullRequested
 <!--END_SECTION:activity-->
 
 ---
@@ -46,7 +46,7 @@
 <div align="center">
 
 <!--START_SECTION:weather-->
-**Beijing, China** 🌤️ **Sunny +74°F**
+**Beijing, China** 🌤️ **Smoky haze +64°F**
 <!--END_SECTION:weather-->
 
 </div>

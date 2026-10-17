@@ -46,7 +46,7 @@
 <div align="center">
 
 <!--START_SECTION:weather-->
-**Beijing, China** 🌤️ **Overcast  +16°C**
+**Beijing, China** 🌤️ **Overcast  +59°F**
 <!--END_SECTION:weather-->
 
 </div>

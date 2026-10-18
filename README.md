@@ -46,7 +46,7 @@
 <div align="center">
 
 <!--START_SECTION:weather-->
-**Beijing, China** 🌤️ **Clear +55°F**
+**Beijing, China** 🌤️ **Smoke +54°F**
 <!--END_SECTION:weather-->
 
 </div>

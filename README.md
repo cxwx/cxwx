@@ -34,9 +34,9 @@
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-* [krivahtoo/silicon.nvim]() - Issuesed
 * [cxwx/awesome-iina]() - Pushed
-* [cxwx/git-diff-toggle.yazi]() - IssueCommented
+* [cxwx/awesome-root-cern]() - Pushed
+* [cxwx/homebrew-cxbrew]() - Createed
 <!--END_SECTION:activity-->
 
 ---
@@ -46,7 +46,7 @@
 <div align="center">
 
 <!--START_SECTION:weather-->
-**Beijing, China** 🌤️ **Light drizzle +53°F**
+**Beijing, China** 🌤️ **Light rain +52°F**
 <!--END_SECTION:weather-->
 
 </div>

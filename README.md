@@ -34,9 +34,9 @@
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
+* [AminurAlam/yazi-plugins]() - Issuesed
 * [cxwx/awesome-iina]() - Pushed
 * [cxwx/awesome-root-cern]() - Pushed
-* [cxwx/homebrew-cxbrew]() - Createed
 <!--END_SECTION:activity-->
 
 ---
@@ -46,7 +46,7 @@
 <div align="center">
 
 <!--START_SECTION:weather-->
-**Beijing, China** 🌤️ **Patchy rain nearby +51°F**
+**Beijing, China** 🌤️ **Smoky haze +50°F**
 <!--END_SECTION:weather-->
 
 </div>

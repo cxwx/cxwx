@@ -34,9 +34,9 @@
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-* [cxwx/homebrew-cxbrew]() - Createed
-* [tomiaa12/nesRoms]() - Forked
-* [tomiaa12/nesRoms]() - Watched
+* [krivahtoo/silicon.nvim]() - Issuesed
+* [cxwx/awesome-iina]() - Pushed
+* [cxwx/git-diff-toggle.yazi]() - IssueCommented
 <!--END_SECTION:activity-->
 
 ---
@@ -46,7 +46,7 @@
 <div align="center">
 
 <!--START_SECTION:weather-->
-**Beijing, China** 🌤️ **Smoky haze +13°C**
+**Beijing, China** 🌤️ **Light drizzle +53°F**
 <!--END_SECTION:weather-->
 
 </div>

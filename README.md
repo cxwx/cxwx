@@ -34,9 +34,9 @@
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
+* [cxwx/telescopeExt]() - Watched
+* [cxwx/homebrew-cxbrew]() - Createed
 * [cxwx/awesome-root-cern]() - Pushed
-* [cxwx/awesome-root-cern]() - Pushed
-* [cxwx/homebrew-cxbrew]() - Pushed
 <!--END_SECTION:activity-->
 
 ---
@@ -46,7 +46,7 @@
 <div align="center">
 
 <!--START_SECTION:weather-->
-**Beijing, China** 🌤️ **Sunny +60°F**
+**Beijing, China** 🌤️ **Smoky haze +53°F**
 <!--END_SECTION:weather-->
 
 </div>

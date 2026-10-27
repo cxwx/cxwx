@@ -34,9 +34,9 @@
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
+* [AminurAlam/yazi-plugins]() - IssueCommented
+* [AminurAlam/yazi-plugins]() - Issuesed
 * [cxwx/telescopeExt]() - Watched
-* [cxwx/homebrew-cxbrew]() - Createed
-* [cxwx/awesome-root-cern]() - Pushed
 <!--END_SECTION:activity-->
 
 ---
@@ -46,7 +46,7 @@
 <div align="center">
 
 <!--START_SECTION:weather-->
-**Beijing, China** 🌤️ **Clear  +47°F**
+**Beijing, China** 🌤️ **Sunny +53°F**
 <!--END_SECTION:weather-->
 
 </div>

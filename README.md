@@ -34,8 +34,8 @@
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-* [cxwx/homebrew-cxbrew]() - Pushed
-* [cxwx/homebrew-cxbrew]() - Pushed
+* [cxwx/homebrew-cxbrew]() - Createed
+* [Nuitka/Nuitka]() - Watched
 * [cxwx/homebrew-cxbrew]() - Issuesed
 <!--END_SECTION:activity-->
 
@@ -46,7 +46,7 @@
 <div align="center">
 
 <!--START_SECTION:weather-->
-**Beijing, China** 🌤️ **Sunny +67°F**
+**Beijing, China** 🌤️ **Smoky haze +61°F**
 <!--END_SECTION:weather-->
 
 </div>

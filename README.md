@@ -34,9 +34,9 @@
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
+* [datsfilipe/vesper.nvim]() - Issuesed
 * [cxwx/homebrew-cxbrew]() - Issuesed
 * [cxwx/homebrew-cxbrew]() - Issuesed
-* [cxwx/homebrew-cxbrew]() - PullRequested
 <!--END_SECTION:activity-->
 
 ---
@@ -46,7 +46,7 @@
 <div align="center">
 
 <!--START_SECTION:weather-->
-**Beijing, China** 🌤️ **Smoky haze +50°F**
+**Beijing, China** 🌤️ **Sunny +68°F**
 <!--END_SECTION:weather-->
 
 </div>

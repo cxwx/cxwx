@@ -46,7 +46,7 @@
 <div align="center">
 
 <!--START_SECTION:weather-->
-**Beijing, China** 🌤️ **Smoke +43°F**
+**Beijing, China** 🌤️ **Overcast  +57°F**
 <!--END_SECTION:weather-->
 
 </div>

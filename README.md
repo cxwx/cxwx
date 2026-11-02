@@ -34,9 +34,9 @@
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-* [cxwx/homebrew-cxbrew]() - Deleteed
-* [cxwx/homebrew-cxbrew]() - Deleteed
-* [cxwx/homebrew-cxbrew]() - Deleteed
+* [physicsdolphin/nv-uefi-unlocker]() - Forked
+* [physicsdolphin/nv-uefi-unlocker]() - Watched
+* [cxwx/homebrew-cxbrew]() - Createed
 <!--END_SECTION:activity-->
 
 ---
@@ -46,7 +46,7 @@
 <div align="center">
 
 <!--START_SECTION:weather-->
-**Beijing, China** 🌤️ **Smoky haze +54°F**
+**Beijing, China** 🌤️ **Haze +57°F**
 <!--END_SECTION:weather-->
 
 </div>

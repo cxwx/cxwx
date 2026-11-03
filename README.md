@@ -34,9 +34,9 @@
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
+* [tecosaur/org-lsp]() - Issuesed
 * [cxwx/homebrew-cxbrew]() - Pushed
-* [kristijanhusak/org-lsp]() - Issuesed
-* [kristijanhusak/org-lsp]() - Issuesed
+* [cxwx/homebrew-cxbrew]() - Pushed
 <!--END_SECTION:activity-->
 
 ---
@@ -46,7 +46,7 @@
 <div align="center">
 
 <!--START_SECTION:weather-->
-**Beijing, China** 🌤️ **Unknown**
+**Beijing, China** 🌤️ **Severe smog +53°F**
 <!--END_SECTION:weather-->
 
 </div>

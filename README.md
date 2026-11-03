@@ -34,9 +34,9 @@
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-* [physicsdolphin/nv-uefi-unlocker]() - Forked
-* [physicsdolphin/nv-uefi-unlocker]() - Watched
-* [cxwx/homebrew-cxbrew]() - Createed
+* [cxwx/homebrew-cxbrew]() - Pushed
+* [kristijanhusak/org-lsp]() - Issuesed
+* [kristijanhusak/org-lsp]() - Issuesed
 <!--END_SECTION:activity-->
 
 ---

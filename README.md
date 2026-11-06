@@ -34,9 +34,9 @@
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
+* [luozhiya/fittencode.nvim]() - Issuesed
 * [dstein64/nvim-scrollview]() - Issuesed
 * [moyiz/blink-emoji.nvim]() - Issuesed
-* [cxwx/homebrew-cxbrew]() - PullRequested
 <!--END_SECTION:activity-->
 
 ---
@@ -46,7 +46,7 @@
 <div align="center">
 
 <!--START_SECTION:weather-->
-**Beijing, China** 🌤️ **Smoky haze +47°F**
+**Beijing, China** 🌤️ **Smoky haze +38°F**
 <!--END_SECTION:weather-->
 
 </div>

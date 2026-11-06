@@ -34,9 +34,9 @@
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
+* [dstein64/nvim-scrollview]() - Issuesed
+* [moyiz/blink-emoji.nvim]() - Issuesed
 * [cxwx/homebrew-cxbrew]() - PullRequested
-* [cxwx/homebrew-cxbrew]() - Issuesed
-* [cxwx/homebrew-cxbrew]() - Issuesed
 <!--END_SECTION:activity-->
 
 ---
@@ -46,7 +46,7 @@
 <div align="center">
 
 <!--START_SECTION:weather-->
-**Beijing, China** 🌤️ **Sunny +56°F**
+**Beijing, China** 🌤️ **Smoky haze +47°F**
 <!--END_SECTION:weather-->
 
 </div>

@@ -34,9 +34,9 @@
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
+* [walkersumida/fusen.nvim]() - Issuesed
+* [pythonprofilers/memory_profiler]() - Watched
 * [cxwx/homebrew-cxbrew]() - Issuesed
-* [cxwx/homebrew-cxbrew]() - PullRequested
-* [luozhiya/fittencode.nvim]() - Issuesed
 <!--END_SECTION:activity-->
 
 ---
@@ -46,7 +46,7 @@
 <div align="center">
 
 <!--START_SECTION:weather-->
-**Beijing, China** 🌤️ **Patchy rain nearby +40°F**
+**Beijing, China** 🌤️ **Smoky haze +37°F**
 <!--END_SECTION:weather-->
 
 </div>

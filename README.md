@@ -34,9 +34,9 @@
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
+* [zongben/proot.nvim]() - Issuesed
+* [DanilaMihailov/beacon.nvim]() - IssueCommented
 * [cxwx/homebrew-cxbrew]() - Pushed
-* [cxwx/homebrew-cxbrew]() - Pushed
-* [cxwx/homebrew-cxbrew]() - PullRequested
 <!--END_SECTION:activity-->
 
 ---
@@ -46,7 +46,7 @@
 <div align="center">
 
 <!--START_SECTION:weather-->
-**Beijing, China** 🌤️ **Smoky haze +38°F**
+**Beijing, China** 🌤️ **Smoky haze +43°F**
 <!--END_SECTION:weather-->
 
 </div>

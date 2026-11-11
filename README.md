@@ -34,7 +34,7 @@
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-* [celeste3z/celeste_comment.nvim]() - Issuesed
+* [chrishrb/gx.nvim]() - Issuesed
 * [cxwx/homebrew-cxbrew]() - Issuesed
 * [cxwx/homebrew-cxbrew]() - Issuesed
 <!--END_SECTION:activity-->
@@ -46,7 +46,7 @@
 <div align="center">
 
 <!--START_SECTION:weather-->
-**Beijing, China** 🌤️ **Smoky haze +9°C**
+**Beijing, China** 🌤️ **Severe smog +46°F**
 <!--END_SECTION:weather-->
 
 </div>

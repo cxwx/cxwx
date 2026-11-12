@@ -46,7 +46,7 @@
 <div align="center">
 
 <!--START_SECTION:weather-->
-**Beijing, China** 🌤️ **Smoky haze +46°F**
+**Beijing, China** 🌤️ **Severe smog +48°F**
 <!--END_SECTION:weather-->
 
 </div>

@@ -34,7 +34,7 @@
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-* [cxwx/homebrew-cxbrew]() - Issuesed
+* [cxwx/awesome-iina]() - IssueCommented
 * [cxwx/homebrew-cxbrew]() - Issuesed
 * [cxwx/homebrew-cxbrew]() - Issuesed
 <!--END_SECTION:activity-->
@@ -46,7 +46,7 @@
 <div align="center">
 
 <!--START_SECTION:weather-->
-**Beijing, China** 🌤️ **Smoky haze +48°F**
+**Beijing, China** 🌤️ **Severe smog +49°F**
 <!--END_SECTION:weather-->
 
 </div>

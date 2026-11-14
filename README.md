@@ -35,8 +35,8 @@
 
 <!--START_SECTION:activity-->
 * [cxwx/awesome-iina]() - IssueCommented
-* [cxwx/homebrew-cxbrew]() - Issuesed
-* [cxwx/homebrew-cxbrew]() - Issuesed
+* [cxwx/awesome-iina]() - Issuesed
+* [rockerBOO/awesome-neovim]() - PullRequested
 <!--END_SECTION:activity-->
 
 ---
@@ -46,7 +46,7 @@
 <div align="center">
 
 <!--START_SECTION:weather-->
-**Beijing, China** 🌤️ **Smoke +42°F**
+**Beijing, China** 🌤️ **Smoky haze +54°F**
 <!--END_SECTION:weather-->
 
 </div>

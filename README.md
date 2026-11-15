@@ -34,9 +34,9 @@
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-* [cxwx/awesome-root-cern]() - Pushed
-* [cxwx/homebrew-cxbrew]() - Pushed
-* [cxwx/homebrew-cxbrew]() - Issuesed
+* [cxwx/ROOTinstallScript]() - Pushed
+* [cxwx/voiceinput.nvim]() - Pushed
+* [feathericons/feather]() - Watched
 <!--END_SECTION:activity-->
 
 ---
@@ -46,7 +46,7 @@
 <div align="center">
 
 <!--START_SECTION:weather-->
-**Beijing, China** 🌤️ **Smoky haze +51°F**
+**Beijing, China** 🌤️ **Patchy rain nearby +45°F**
 <!--END_SECTION:weather-->
 
 </div>

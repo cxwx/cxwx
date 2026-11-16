@@ -34,9 +34,9 @@
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-* [koharu-rs/koharu]() - Issuesed
-* [cxwx/cxfunc]() - Pushed
+* [cxwx/homebrew-cxbrew]() - Createed
 * [cxwx/voiceinput.nvim]() - Pushed
+* [cxwx/homebrew-cxbrew]() - PullRequested
 <!--END_SECTION:activity-->
 
 ---
@@ -46,7 +46,7 @@
 <div align="center">
 
 <!--START_SECTION:weather-->
-**Beijing, China** 🌤️ **Smoke +43°F**
+**Beijing, China** 🌤️ **Smoke +38°F**
 <!--END_SECTION:weather-->
 
 </div>

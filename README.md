@@ -34,9 +34,9 @@
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
+* [koharu-rs/koharu]() - Issuesed
 * [cxwx/cxfunc]() - Pushed
 * [cxwx/voiceinput.nvim]() - Pushed
-* [cxwx/rslime.nvim]() - Pushed
 <!--END_SECTION:activity-->
 
 ---
@@ -46,7 +46,7 @@
 <div align="center">
 
 <!--START_SECTION:weather-->
-**Beijing, China** 🌤️ **Cloudy  +43°F**
+**Beijing, China** 🌤️ **Smoke +43°F**
 <!--END_SECTION:weather-->
 
 </div>

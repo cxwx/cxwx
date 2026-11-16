@@ -34,9 +34,9 @@
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-* [cxwx/ROOTinstallScript]() - Pushed
+* [cxwx/cxfunc]() - Pushed
 * [cxwx/voiceinput.nvim]() - Pushed
-* [feathericons/feather]() - Watched
+* [cxwx/rslime.nvim]() - Pushed
 <!--END_SECTION:activity-->
 
 ---
@@ -46,7 +46,7 @@
 <div align="center">
 
 <!--START_SECTION:weather-->
-**Beijing, China** 🌤️ **Patchy rain nearby +42°F**
+**Beijing, China** 🌤️ **Cloudy  +43°F**
 <!--END_SECTION:weather-->
 
 </div>

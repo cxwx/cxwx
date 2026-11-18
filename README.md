@@ -34,9 +34,9 @@
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-* [prg318/registers.nvim]() - Issuesed
-* [cxwx/voiceinput.nvim]() - Pushed
-* [cxwx/homebrew-cxbrew]() - Createed
+* [luozhiya/fittencode.nvim]() - IssueCommented
+* [luozhiya/fittencode.nvim]() - IssueCommented
+* [luozhiya/fittencode.nvim]() - Issuesed
 <!--END_SECTION:activity-->
 
 ---
@@ -46,7 +46,7 @@
 <div align="center">
 
 <!--START_SECTION:weather-->
-**Beijing, China** 🌤️ **Partly Cloudy  +41°F**
+**Beijing, China** 🌤️ **Clear  +34°F**
 <!--END_SECTION:weather-->
 
 </div>

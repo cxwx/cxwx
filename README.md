@@ -34,9 +34,9 @@
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
+* [RaafatTurki/hex.nvim]() - Issuesed
+* [yetone/magpie]() - IssueCommented
 * [rockerBOO/awesome-neovim]() - PullRequested
-* [luozhiya/fittencode.nvim]() - IssueCommented
-* [luozhiya/fittencode.nvim]() - IssueCommented
 <!--END_SECTION:activity-->
 
 ---
@@ -46,7 +46,7 @@
 <div align="center">
 
 <!--START_SECTION:weather-->
-**Beijing, China** 🌤️ **Sunny +40°F**
+**Beijing, China** 🌤️ **Smoky haze +34°F**
 <!--END_SECTION:weather-->
 
 </div>

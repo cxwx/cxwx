@@ -34,9 +34,9 @@
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
+* [rockerBOO/awesome-neovim]() - PullRequested
 * [luozhiya/fittencode.nvim]() - IssueCommented
 * [luozhiya/fittencode.nvim]() - IssueCommented
-* [luozhiya/fittencode.nvim]() - Issuesed
 <!--END_SECTION:activity-->
 
 ---
@@ -46,7 +46,7 @@
 <div align="center">
 
 <!--START_SECTION:weather-->
-**Beijing, China** 🌤️ **Smoky haze +37°F**
+**Beijing, China** 🌤️ **Sunny +40°F**
 <!--END_SECTION:weather-->
 
 </div>

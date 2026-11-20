@@ -34,9 +34,9 @@
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
+* [cxwx/rslime.nvim]() - Createed
 * [theKnightsOfRohan/hexer.nvim]() - IssueCommented
 * [RaafatTurki/hex.nvim]() - Issuesed
-* [yetone/magpie]() - IssueCommented
 <!--END_SECTION:activity-->
 
 ---
@@ -46,7 +46,7 @@
 <div align="center">
 
 <!--START_SECTION:weather-->
-**Beijing, China** 🌤️ **Smoky haze +33°F**
+**Beijing, China** 🌤️ **Sunny +44°F**
 <!--END_SECTION:weather-->
 
 </div>

@@ -34,9 +34,9 @@
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-* [cxwx/rslime.nvim]() - Createed
-* [theKnightsOfRohan/hexer.nvim]() - IssueCommented
-* [RaafatTurki/hex.nvim]() - Issuesed
+* [cxwx/homebrew-cxbrew]() - PullRequested
+* [cxwx/homebrew-cxbrew]() - Issuesed
+* [cxwx/homebrew-cxbrew]() - Issuesed
 <!--END_SECTION:activity-->
 
 ---
@@ -46,7 +46,7 @@
 <div align="center">
 
 <!--START_SECTION:weather-->
-**Beijing, China** 🌤️ **Sunny +44°F**
+**Beijing, China** 🌤️ **Smoky haze +33°F**
 <!--END_SECTION:weather-->
 
 </div>

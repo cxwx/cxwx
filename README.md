@@ -35,8 +35,8 @@
 
 <!--START_SECTION:activity-->
 * [frankroeder/parrot.nvim]() - Issuesed
+* [frankroeder/parrot.nvim]() - Issuesed
 * [Zeioth/garbage-day.nvim]() - IssueCommented
-* [chrisgrieser/nvim-origami]() - Issuesed
 <!--END_SECTION:activity-->
 
 ---
@@ -46,7 +46,7 @@
 <div align="center">
 
 <!--START_SECTION:weather-->
-**Beijing, China** 🌤️ **Smoky haze +33°F**
+**Beijing, China** 🌤️ **Smoky haze +30°F**
 <!--END_SECTION:weather-->
 
 </div>

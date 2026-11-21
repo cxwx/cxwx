@@ -34,9 +34,9 @@
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
+* [frankroeder/parrot.nvim]() - Issuesed
+* [Zeioth/garbage-day.nvim]() - IssueCommented
 * [chrisgrieser/nvim-origami]() - Issuesed
-* [chrisgrieser/nvim-origami]() - Issuesed
-* [cxwx/homebrew-cxbrew]() - Createed
 <!--END_SECTION:activity-->
 
 ---
@@ -46,7 +46,7 @@
 <div align="center">
 
 <!--START_SECTION:weather-->
-**Beijing, China** 🌤️ **Sunny +40°F**
+**Beijing, China** 🌤️ **Smoky haze +33°F**
 <!--END_SECTION:weather-->
 
 </div>

@@ -34,9 +34,9 @@
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
+* [nvim-neorg/tree-sitter-norg]() - IssueCommented
 * [frankroeder/parrot.nvim]() - Issuesed
 * [frankroeder/parrot.nvim]() - Issuesed
-* [Zeioth/garbage-day.nvim]() - IssueCommented
 <!--END_SECTION:activity-->
 
 ---
@@ -46,7 +46,7 @@
 <div align="center">
 
 <!--START_SECTION:weather-->
-**Beijing, China** 🌤️ **Smoky haze +39°F**
+**Beijing, China** 🌤️ **Smoke +35°F**
 <!--END_SECTION:weather-->
 
 </div>

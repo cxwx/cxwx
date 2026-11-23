@@ -34,9 +34,9 @@
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
+* [xheisenbugx/org.nvim]() - Issuesed
+* [xheisenbugx/org.nvim]() - Issuesed
 * [cxwx/TranslateOnMacosGui]() - Createed
-* [nvim-neorg/tree-sitter-norg]() - IssueCommented
-* [frankroeder/parrot.nvim]() - Issuesed
 <!--END_SECTION:activity-->
 
 ---
@@ -46,7 +46,7 @@
 <div align="center">
 
 <!--START_SECTION:weather-->
-**Beijing, China** 🌤️ **Smoky haze +38°F**
+**Beijing, China** 🌤️ **Smoky haze +34°F**
 <!--END_SECTION:weather-->
 
 </div>

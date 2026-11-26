@@ -34,9 +34,9 @@
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-* [cxwx/rslime.nvim]() - Pushed
 * [cxwx/homebrew-cxbrew]() - Pushed
-* [cxwx/homebrew-cxbrew]() - Createed
+* [jbyuki/one-small-step-for-vimkind]() - Watched
+* [cxwx/rslime.nvim]() - Pushed
 <!--END_SECTION:activity-->
 
 ---
@@ -46,7 +46,7 @@
 <div align="center">
 
 <!--START_SECTION:weather-->
-**Beijing, China** 🌤️ **Smoke +45°F**
+**Beijing, China** 🌤️ **Clear  +44°F**
 <!--END_SECTION:weather-->
 
 </div>

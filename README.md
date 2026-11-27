@@ -34,9 +34,9 @@
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
+* [crimx/ext-saladict]() - Watched
 * [cxwx/rslime.nvim]() - Pushed
 * [cxwx/homebrew-cxbrew]() - Pushed
-* [jbyuki/one-small-step-for-vimkind]() - Watched
 <!--END_SECTION:activity-->
 
 ---
@@ -46,7 +46,7 @@
 <div align="center">
 
 <!--START_SECTION:weather-->
-**Beijing, China** 🌤️ **Sunny +48°F**
+**Beijing, China** 🌤️ **Smoky haze +37°F**
 <!--END_SECTION:weather-->
 
 </div>
